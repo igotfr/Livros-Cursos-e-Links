@@ -1,7 +1,41 @@
-## API
+### Programação
 
-- https://www.youtube.com/watch?v=aOtN5qdm7jY&t=562s
+- https://www.codecademy.com
 
-- https://www.youtube.com/watch?v=yTM8Pfj1muE&t=12s
+- https://pt.khanacademy.org
 
-- https://www.youtube.com/watch?v=4Tt5ievC5iU&list=PL5V0GsuyWR6RtMtHcUB6oSuwRL3eWHX66&index=13
+- https://www.udacity.com
+
+- https://www.sololearn.com
+
+- https://www.freecodecamp.org/
+
+- https://www.codingame.com
+
+- https://www.discudemy.com
+
+- https://www.real.discount
+
+- https://www.morioh.com
+
+- http://www.techshutle.com/
+
+- https://www.digitalinnovation.one/
+
+- https://www.academictorrents.com/
+
+### C
+
+- https://en.wikibooks.org/wiki/C_Programming
+
+### Python
+
+- http://www.inventwithpython.com/
+
+### Java
+
+- classroom.udacity.com/courses/cs046
+
+### Segurança da Informação
+
+- https://solyd.com.br
