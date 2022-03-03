@@ -24,6 +24,8 @@
 - https://radicle.xyz/
 
 ### Host de vídeos
+- https://lbry.com/
+
 - https://odysee.com/
 
 ### Fazer dinheiro
