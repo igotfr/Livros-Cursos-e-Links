@@ -23,6 +23,9 @@
 ### Host de arqivos
 - https://radicle.xyz/
 
+### Host de vídeos
+- https://odysee.com/
+
 ### Fazer dinheiro
 - https://gitcoin.co/
 
