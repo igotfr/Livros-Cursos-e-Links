@@ -19,3 +19,12 @@
 - https://insomnia.rest/
 
 - https://www.postman.com/
+
+### Host de arqivos
+- https://radicle.xyz/
+
+### Fazer dinheiro
+- https://gitcoin.co/
+
+### Engine NFT
+- https://www.numbersprotocol.io/
