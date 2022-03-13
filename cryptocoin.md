@@ -9,7 +9,7 @@ FEG
 
 EGLD
 
-POLKADOT
+DOT (POLKADOT)
 
 Kadena
 
