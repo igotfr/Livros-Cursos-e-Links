@@ -10,6 +10,10 @@
 
 - https://www.figma.com/figjam/
 
+### Prototipagem e Diagramação
+
+- https://whimsical.com/
+
 ### Anotações
 
 - https://www.notion.so/
