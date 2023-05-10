@@ -6,6 +6,10 @@
 
 - https://www.figma.com/
 
+### Diagramação
+
+- https://www.figma.com/figjam/
+
 ### Anotações
 
 - https://www.notion.so/
@@ -20,7 +24,7 @@
 
 - https://www.postman.com/
 
-### Host de arqivos
+### Host de arqivos de programação
 - https://radicle.xyz/
 
 ### Host de vídeos
